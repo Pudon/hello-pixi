@@ -63,4 +63,4 @@ function setup() {
     gameScene = new PIXI.Container();
 }
 ```
-> 注意：pixi请求需要服务器
+> 注意：pixi请求需要服务器 这点需要注意
